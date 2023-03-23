@@ -28,7 +28,7 @@ And my apps:
 (Coming to App Store ✨ soon ✨)
 -->
 
-- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker), [Hydration](https://github.com/freyaalminde/hyration), and [Database Utility](https://github.com/database-utility/database-utility).
+- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker) and [Database Utility](https://github.com/database-utility/database-utility).
 - 🌱 I’m currently learning the arcane arts of AppKit.
 - 👯 I’m looking to collaborate on a better tomorrow for all Apple platform IDE apps.
 - 🤔 I’m looking for help with TextKit and view-based `NSTableView`s.
