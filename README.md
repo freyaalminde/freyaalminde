@@ -1,5 +1,6 @@
 ### Hi, I’m Freya! 🙋🏻‍♀️
 
+<!--
 Check out my libraries:
 
 * https://github.com/freyaalminde/calendar-ui
@@ -19,27 +20,18 @@ And my apps:
 
 <img src="https://github.com/freyaalminde/countdowns/raw/main/Shared/Assets.xcassets/AppIcon.appiconset/icon_40pt@2x.png?raw=true" alt="" width="40" valign="bottom" style="border-radius: 50%;"> <img src="https://github.com/freyaalminde/hydration/raw/main/Shared/Assets.xcassets/icon_40pt.imageset/icon_40pt@2x.png?raw=true" alt="" width="40" valign="bottom" style="border-radius: 50%;"> <img src="https://github.com/freyaalminde/volume-remote/raw/main/Shared/Assets.xcassets/AppIcon.appiconset/icon_40pt@2x.png?raw=true" alt="" width="40" valign="bottom" style="border-radius: 6px;">
 
-<!-- * https://github.com/database-utility/database-utility -->
+* https://github.com/database-utility/database-utility
 * https://github.com/freyaalminde/countdowns
 * https://github.com/freyaalminde/hydration
 * https://github.com/freyaalminde/volume-remote
 
 (Coming to App Store ✨ soon ✨)
-
-Most of my forks are just me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
-
-
-<!--
-**freyaalminde/freyaalminde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker), [Hydration](https://github.com/freyaalminde/hyration), and [Database Utility](https://github.com/database-utility/database-utility).
+- 🌱 I’m currently learning the arcane arts of AppKit.
+- 👯 I’m looking to collaborate on a better tomorrow for all Apple platform IDE apps.
+- 🤔 I’m looking for help with Apple’s TextKit.
+- 💬 Ask me about `NSCell`.
+- 📫 How to reach me: Hit me up on Discord or iMessage.
+- ⚡ Fun fact: Most of my forks are just me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
