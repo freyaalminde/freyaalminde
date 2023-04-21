@@ -1,5 +1,3 @@
-### Hi, I’m Freya! 🙋🏻‍♀️
-
 <!--
 Check out my libraries:
 
@@ -28,10 +26,14 @@ And my apps:
 (Coming to App Store ✨ soon ✨)
 -->
 
-- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker) and [Database Utility](https://github.com/database-utility/database-utility).
+- Hi! 🙋🏻‍♀️
+- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker)<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->.
+- 📫 How to reach me: Discord or iMessage.
+- ⚡ Fun fact: Most of my forks are just from me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
+
+<!--
 - 🌱 I’m currently learning the arcane arts of AppKit.
+- 💬 Ask me about `NSCell`.
 - 👯 I’m looking to collaborate on a better tomorrow for all Apple platform IDE apps.
 - 🤔 I’m looking for help with TextKit and view-based `NSTableView`s.
-- 💬 Ask me about `NSCell`.
-- 📫 How to reach me: Hit me up on Discord or iMessage.
-- ⚡ Fun fact: Most of my forks are just me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
+-->
