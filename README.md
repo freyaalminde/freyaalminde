@@ -27,8 +27,8 @@ And my apps:
 -->
 
 - Hi! 🙋🏻‍♀️
-- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker)<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->.
 - 📫 How to reach me: Discord or iMessage.
+- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker) and _a secret project_<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->. 👻
 - ⚡ Fun fact: Most of my forks are just from me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
 
 <!--
