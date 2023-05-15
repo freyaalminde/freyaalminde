@@ -28,12 +28,16 @@ And my apps:
 
 - Hi! 🙋🏻‍♀️
 - 📫 How to reach me: Discord or iMessage.
-- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker) and _a secret project_<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->. 👻
-- ⚡ Fun fact: Most of my forks are just from me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
+- 💬 Ask me about AppKit’s `NSCell` and Carbon’s `HIMenuGetContentView()`.
+- 🤔 I’m looking for help with how to implement Xcode-like error annotations using TextKit.
+- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker), [Kaomoji Picker](https://github.com/freyaalminde/kaomoji-picker), and _a secret project_<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->. 👻
+- ⚡ Fun fact: Many of my forks are just from me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
 
 <!--
-- 🌱 I’m currently learning the arcane arts of AppKit.
-- 💬 Ask me about `NSCell`.
-- 👯 I’m looking to collaborate on a better tomorrow for all Apple platform IDE apps.
-- 🤔 I’m looking for help with TextKit and view-based `NSTableView`s.
+- 🌱 I’m currently learning [something].
+- 👯 I’m looking to collaborate on a better tomorrow for all open-source Apple-platform IDE apps.
+-->
+
+<!--
+hey, you lurker you! (￢‿￢)
 -->
