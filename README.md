@@ -26,11 +26,11 @@ And my apps:
 (Coming to App Store ✨ soon ✨)
 -->
 
-- Hi! 🙋🏻‍♀️
+- Hi there! 🙋🏻‍♀️
 - 📫 How to reach me: Discord or iMessage.
-- 💬 Ask me about AppKit’s `NSCell` and Carbon’s `HIMenuGetContentView()`.
+- 💬 Ask me about the Input Method Kit and `TextInputSources.h`.
 - 🤔 I’m looking for help with how to implement Xcode-like error annotations using TextKit.
-- 🔭 I’m currently working on [Watch Date Picker](https://github.com/freyaalminde/watch-date-picker), [Kaomoji Picker](https://github.com/freyaalminde/kaomoji-picker), and _a secret project_<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->. 👻
+- 🔭 I’m currently working on [Kaomoji Palette](https://github.com/freyaalminde/kaomoji-palette) and _a secret project_<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->. 👻
 - ⚡ Fun fact: Many of my forks are just from me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
 
 <!--
