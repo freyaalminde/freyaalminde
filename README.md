@@ -29,12 +29,12 @@ And my apps:
 - Hi there! 🙋🏻‍♀️
 - 📫 How to reach me: Discord or iMessage.
 - 💬 Ask me about the Input Method Kit and `TextInputSources.h`.
+- 🌱 I’m currently learning how to scale WebSockets with Vapor.
 - 🤔 I’m looking for help with how to implement Xcode-like error annotations using TextKit.
-- 🔭 I’m currently working on [Kaomoji Palette](https://github.com/freyaalminde/kaomoji-palette) and _a secret project_<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->. 👻
+- 🔭 I’m currently working on [Kaomoji Palette](https://github.com/freysie/kaomoji-palette) and _a secret project_<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->. 👻
 - ⚡ Fun fact: Many of my forks are just from me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
 
 <!--
-- 🌱 I’m currently learning [something].
 - 👯 I’m looking to collaborate on a better tomorrow for all open-source Apple-platform IDE apps.
 -->
 
