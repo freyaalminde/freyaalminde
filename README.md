@@ -28,7 +28,7 @@ And my apps:
 
 - Hi there! 🙋🏻‍♀️
 - 📫 How to reach me: Discord or iMessage.
-- 💬 Ask me about the Input Method Kit and `TextInputSources.h`.
+- 💬 Ask me anything about Ruby, JavaScript, Swift, or Apple’s frameworks.
 - 🌱 I’m currently learning how to scale WebSockets with Vapor.
 - 🤔 I’m looking for help with how to implement Xcode-like error annotations using TextKit.
 - 🔭 I’m currently working on [Kaomoji Palette](https://github.com/freysie/kaomoji-palette) and _a secret project_<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->. 👻
